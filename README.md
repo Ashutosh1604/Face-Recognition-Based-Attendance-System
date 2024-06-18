@@ -1,27 +1,13 @@
-# Face-Recognition-Based-Student-Attendance-System-in-Python-using-OpenCV-with-Tkinter-GUI-
+# Face-Recognition-Based-Attendance-System
 
-
-### Team Kyzen
-* [Amish Thapa](https://github.com/amish-git)
-* [Keshav Raj Poudel](https://github.com/Keshav-46)
-* [Khom Raj Thapa Magar](https://khomz.github.io/)
-
-
-[[Click me!]](https://khomz.github.io/)
 
 ### Abstract
-Face recognition-based attendance system is a process of recognizing the faces of the students while taking attendance by using face bio-metrics based on high – definition monitor video and other information technology. In this face recognition project, a computer system will be able to find and recognize human faces quickly and precisely in images or videos that are being captured through a webcam / a surveillance camera. 
-In our face recognition project, a computer system will be able to find and recognize human faces quickly and precisely in images or videos that are being captured through a webcam / surveillance camera. 
-Here, faces will recognized using face recognition algorithm. The processed image will then be compared against the existing record and then attendance marked in the database accordingly. The human face is the most distinctive feature used to uniquely identify an individual. That's why, it is used to trace identity as the possibilities for a face to deviate or being duplicated is low.
-
+Automatic face recognition (AFR) technology has made great progress in science and technology. The project's goal is to develop a facial recognition attendance system for schools in order to improve and enhance the current attendance system. The current legacy system is experiencing considerable confusion, leading to inaccurate onboarding and poor performance. Facial recognition is a process that uses biometric facial recognition based on information technology, such as high-speed video surveillance, to perform facial recognition on students while they are participating. In our project, the computer maybe capable of detecting and recognizing faces in images or films captured by community cameras or video display systems. Here, a facial recognition algorithm will be used to identify the face. The finished image is then compared to existing data, and the accession is marked as in the data. The human face is the most unique feature used to identify a person. Therefore, it is used to keep track of characters as there is less chance of different faces or repeats.
+Keywords: face detection, facial recognition, spreadsheet, Python, OpenCV, Tkinter GUI. 
 
 ### Problem Statement
 The biggest issue in former attendance management system is the accuracy of the data collected. This is because the attendance might not be recorded personally by the original person, in other word, the attendance of a particular person can be taken by a third party without the realization of the institution which violates the accuracy of the data. 
 
-#### To do:
-* Record Student Details in a Database
-* Train Photo samples of the students
-* 
 
 ### Algorithms Used
 * Haarcascade OpenCV(Face Detection)
@@ -29,30 +15,13 @@ The biggest issue in former attendance management system is the accuracy of the 
 
 
 ### Project Features
-#### 1. Login Security System
-* (Username & Password)
-#### 2. Homepage
+#### 1. Homepage
 * Student Management System
 * Train Photo Samples
 * Take Attendance with Face Detection
 * Attendance Report (.csv file & Sqlite database)
-* Developer Page(Team Kyzen)
 * Help Desk
 * Exit System
-
-
-### Snapshots
-
-### HomePage
-![Home](pitching-ideas/proposed/proposed-homepage.jpg)
-
-### Student Management System
-![Student DBMS](Images/konsoleSNAP/student-DBMS.png)
-
-### Training
-![Train](https://github.com/KhomZ/Face-Recognition-Based-Student-Attendance-System-in-Python-using-OpenCV-with-Tkinter-GUI-/blob/main/ProjectImages/Work%20Progress/trainingImagesSNAp.png?raw=true)
-
-### Recoginition
 
 
 ### Built With
